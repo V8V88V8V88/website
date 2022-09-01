@@ -6,8 +6,8 @@ enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 [params]
-  description = "V8's Personal Website"
-  copyright = "Copyleft 🄯 2022 -"
+  description = "V8's Personal Website containing all the important links and blogs I wrote!"
+  copyright = "Copyleft 🄯 2022"
   dark = "on"
   highlight = true
   buildDrafts = true
@@ -46,4 +46,5 @@ pygmentsUseClasses = true
 
   [markup.tableOfContents]
     ordered = true
-     
+
+    

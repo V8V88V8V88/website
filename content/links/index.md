@@ -1,6 +1,5 @@
 ---
-title: "Links"
-date: 2022-07-18T19:10:51+05:30
+title: Links
 draft: false
 ---
 <br>
@@ -40,8 +39,4 @@ draft: false
     <td><a href="https://aminoapps.com/c/indianamino/page/user/v8v88v8v88-tm-doyouknowdawae/g0Rq_zpQixfQPYM802bYq08PMPQKZB2P3bxT3" target="_blank">Amino</a></td>
 </li>
 
-	
-<li>
-    <td><a href="https://in.linkedin.com/in/vaibhav-pratap-singh-2a294a133" target="_blank">LinkedIn</a></td>
-</li>
 </ul>
