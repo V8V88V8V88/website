@@ -45,4 +45,14 @@ Hi there! I am Vaibhav Pratap Singh, known by the Username V8 on the Internet. I
 <li>
     <td><a href="https://aminoapps.com/c/indianamino/page/user/v8v88v8v88-tm-doyouknowdawae/g0Rq_zpQixfQPYM802bYq08PMPQKZB2P3bxT3" target="_blank">Amino</a></td>
 </li>
+
+<li>
+    <td><a href="https://www.linkedin.com/in/v8v88v8v88/" target="_blank">LinkedIn</a></td>
+</li>
+
+<li>
+    <td><a href="http://piracyindex.c1.biz/" target="_blank">Piracy Index</a></td>
+</li>
+
+
 </ul>
