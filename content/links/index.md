@@ -44,7 +44,7 @@ draft: false
 </li>
 
 <li>
-    <td><a href="http://piracyindex.c1.biz/" target="_blank">Piracy Index</a></td>
+    <td><a href="http://piracyindex.c1.biz/" target="_blank">The Piracy Index</a></td>
 </li>
 
 
