@@ -6,30 +6,15 @@
     <description>Recent content in Home on $ &gt;[V8V88V8V88]_</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Jul 2022 19:03:44 +0530</lastBuildDate>
-    
-	<atom:link href="https://v8v88v8v88.tk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
+    <lastBuildDate>Mon, 18 Jul 2022 19:03:44 +0530</lastBuildDate><atom:link href="https://v8v88v8v88.tk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NameChange</title>
       <link>https://v8v88v8v88.tk/namechange/</link>
       <pubDate>Wed, 27 Jul 2022 13:00:49 +0530</pubDate>
       
       <guid>https://v8v88v8v88.tk/namechange/</guid>
-      <description>&lt;p&gt;Oho Name change
-Reeti rivaj change
-Mashre samaaj change
-Bhai ke mizaaj change
-Oho Name change
-Weebhav se Kalzorkian mai
-Oho Name change
-Abh Kalzorkian se V8 mai :D&lt;/p&gt;
-</description>
+      <description>Oho Name change Reeti rivaj change Mashre samaaj change Bhai ke mizaaj change Oho Name change Weebhav se Kalzorkian mai Oho Name change Abh Kalzorkian se V8 mai :D</description>
     </item>
-    
-    
     
     <item>
       <title>First</title>
@@ -37,15 +22,27 @@ Abh Kalzorkian se V8 mai :D&lt;/p&gt;
       <pubDate>Wed, 20 Jul 2022 06:30:16 +0530</pubDate>
       
       <guid>https://v8v88v8v88.tk/first/</guid>
-      <description>&lt;p&gt;Hey Everynyan!
-I am V8 and Welcome to my Personal Website! I hope you all are doing good. This is the First blog of my Website. I hope You all are doing good! Stay Healthy and Keep Learning new Hacker stuff. Bye! :D&lt;/p&gt;
-</description>
+      <description>Hey Everynyan! I am V8 and Welcome to my Personal Website! I hope you all are doing good. This is the First blog of my Website. I hope You all are doing good! Stay Healthy and Keep Learning new Hacker stuff. Bye! :D</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://v8v88v8v88.tk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://v8v88v8v88.tk/about/</guid>
+      <description>Hey Visitor! I am Vaibhav Pratap Singh, I go by the Username &gt; V8V88V8V88 / V8 on Internet. I am interested in Computers, Internet, FOSS, Linux, Design, Coding. I am currently a CSE student who loves to explore and learn new areas of interest. I am curious by nature and I strongly believe in the KISS and Unix philosophy. You are always welcome to ping me at my social handles, although I might respond them late :PProjectsThe Piracy IndexTelegram - Libadwaita ThemeContactEmail: v8v88v8v88@protonmail.</description>
+    </item>
     
-    
-    
-    
+    <item>
+      <title>Links</title>
+      <link>https://v8v88v8v88.tk/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://v8v88v8v88.tk/links/</guid>
+      <description>
+GitHubTelegramTwitterMALRedditYouTubeAminoMALThe Piracy Index</description>
+    </item>
     
   </channel>
 </rss>
